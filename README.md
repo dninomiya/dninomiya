@@ -35,6 +35,7 @@ Next.js / Tailwind CSS / Firebase / Algolia / Stripe / SendGrid / Vercel
 
 - 詳細な工数を提示し、人日ベースで公平明瞭な見積を行います。
 - SaaSやメジャーなOSSを活用し、属人性の低いコードを書きます。
+- 常に最先端のトレンド技術を使って最適なUI/UXを実現します。
 
 ### 依頼の流れ
 
