@@ -2,6 +2,9 @@
 
 複数の大手企業で大型Webサイトや新規Webアプリ開発の経験を重ねて独立。現在はWeb系の受託開発やWebアプリ開発メンターを生業としています。
 
+- [Twitter](https://twitter.com/d151005)
+- [YouTube](https://www.youtube.com/channel/UCUPq5dKFGnOziaqYI-ejYcg)
+
 ## スキル
 
 Next.js / Tailwind CSS / Firebase / Algolia / Stripe / SendGrid / Vercel
